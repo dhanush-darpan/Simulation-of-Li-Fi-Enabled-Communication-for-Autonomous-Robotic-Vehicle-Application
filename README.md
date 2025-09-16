@@ -1,5 +1,3 @@
-# Simulation-of-Li-Fi-Enabled-Communication-for-Autonomous-Robotic-Vehicle-Application
-
 # Li-Fi Enabled Communication Simulation for Mobile ROV
 
 ## Overview
