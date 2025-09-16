@@ -81,5 +81,5 @@ This simulation and prototype concept can be applied in multiple domains:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dhanush_darpan/Simulation-of-Li-Fi-Enabled-Communication-for-Autonomous-Robotic-Vehicle-Application.git
+   git clone https://github.com/dhanush-darpan/Simulation-of-Li-Fi-Enabled-Communication-for-Autonomous-Robotic-Vehicle-Application.git
    cd Simulation-of-Li-Fi-Enabled-Communication-for-Autonomous-Robotic-Vehicle-Application
