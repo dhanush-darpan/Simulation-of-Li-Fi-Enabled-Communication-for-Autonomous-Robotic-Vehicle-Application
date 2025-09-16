@@ -1,7 +1,7 @@
 # Li-Fi Enabled Communication Simulation for Autonomous Robotic Vehicle Application
 
 ## Overview
-This project simulates a **Li-Fi (Visible Light Communication) link** between multiple LED transmitters mounted on towers and a mobile **Remotely Operated Vehicle (ROV)** equipped with a solar-panel receiver.  
+This project simulates a **Li-Fi (Visible Light Communication) link** between multiple LED transmitters mounted on towers and a **Autonomous Robotic Vehicle** equipped with a solar-panel receiver.  
 
 The simulation helps analyze how **distance, orientation, and motion** affect the **received optical power and harvested electrical power**, before moving to hardware prototyping.
 
