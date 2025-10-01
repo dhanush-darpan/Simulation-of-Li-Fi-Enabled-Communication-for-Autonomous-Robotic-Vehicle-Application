@@ -34,18 +34,16 @@ The simulation helps analyze how **distance, orientation, and motion** affect th
 ## Key Equation
 The LOS (Line-of-Sight) DC channel gain is given by:
 
-\[
-H(0) = \frac{(m+1)A}{2\pi d^2}\cos^m(\phi)\cos(\psi)\,T_s\,g(\psi)
-\]
+H(0) = ((m+1) * A / (2π * d²)) * cos^m(ϕ) * T_s(ψ) * g(ψ) * cos(ψ)
 
 Where:  
-- \(m\) = Lambertian order of LED  
-- \(A\) = receiver area  
-- \(d\) = distance between transmitter and receiver  
-- \(\phi\) = irradiance angle  
-- \(\psi\) = incidence angle  
-- \(T_s\) = optical filter gain  
-- \(g(\psi)\) = concentrator gain  
+- \( m \) = Lambertian order of LED  
+- \( A \) = receiver area  
+- \( d \) = distance between transmitter and receiver  
+- \( \phi \) = irradiance angle  
+- \( \psi \) = incidence angle  
+- \( T_s \) = optical filter gain  
+- \( g(\psi) \) = concentrator gain  
 
 ---
 
